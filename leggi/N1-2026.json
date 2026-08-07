@@ -1,0 +1,28 @@
+{
+    "titolo": "Codice della Strada",
+    "nota": null,
+    "sezioni": [
+        {
+            "numero": 1,
+            "titolo": "Norme di Circolazione",
+            "articoli": [
+                {
+                    "numero": 1,
+                    "titolo": "Limiti",
+                    "corpo": "Il limite in città è 50 km/h."
+                }
+            ]
+        },
+        {
+            "numero": 2,
+            "titolo": "Sanzioni",
+            "articoli": [
+                {
+                    "numero": 2,
+                    "titolo": "Multe",
+                    "corpo": "Le sanzioni sono applicate secondo tabella."
+                }
+            ]
+        }
+    ]
+}
