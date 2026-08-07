@@ -1,0 +1,28 @@
+{
+    "titolo": "Testo unico sulle leggi inutili",
+    "nota": null,
+    "sezioni": [
+        {
+            "numero": 1,
+            "titolo": "Disposizioni Transitorie",
+            "articoli": [
+                {
+                    "numero": 1,
+                    "titolo": "articolo inutile",
+                    "corpo": "Le leggi sono inutili"
+                }
+            ]
+        },
+        {
+            "numero": 2,
+            "titolo": "Disposizioni Finali",
+            "articoli": [
+                {
+                    "numero": 2,
+                    "titolo": "altro articolo inutile",
+                    "corpo": "Le leggi servono solo contro Marocchi"
+                }
+            ]
+        }
+    ]
+}
