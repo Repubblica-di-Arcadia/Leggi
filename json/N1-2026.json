@@ -1,0 +1,28 @@
+{
+    "titolo": "Codice della Strada",
+    "nota": "Questa è una prova di emendamento",
+    "sezioni": [
+        {
+            "numero": 1,
+            "titolo": "Stupide in      Circolazione",
+            "articoli": [
+                {
+                    "numero": 1,
+                    "titolo": "Limiti",
+                    "corpo": "Il limite in città è 500 km/h."
+                }
+            ]
+        },
+        {
+            "numero": 2,
+            "titolo": "Sanzioni per nessuno",
+            "articoli": [
+                {
+                    "numero": 2,
+                    "titolo": "Multe",
+                    "corpo": "Le sanzioni non sono applicate secondo tabella."
+                }
+            ]
+        }
+    ]
+}
