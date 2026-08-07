@@ -1,6 +1,6 @@
 {
     "titolo": "Testo unico sulle leggi inutili",
-    "nota": null,
+    "nota": "Questa è un emendamento inutile",
     "sezioni": [
         {
             "numero": 1,
@@ -9,7 +9,7 @@
                 {
                     "numero": 1,
                     "titolo": "articolo inutile",
-                    "corpo": "Le leggi sono inutili"
+                    "corpo": "Le leggi sono utili"
                 }
             ]
         },
