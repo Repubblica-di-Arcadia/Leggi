@@ -1,0 +1,28 @@
+{
+    "titolo": "Legge di prova",
+    "nota": null,
+    "sezioni": [
+        {
+            "numero": "1",
+            "titolo": "Prova provosa",
+            "articoli": [
+                {
+                    "numero": "1",
+                    "titolo": "Importante articolo",
+                    "corpo": "Il corpo del testo non formattato"
+                }
+            ]
+        },
+        {
+            "numero": "2",
+            "titolo": "Sezione errata di proposito",
+            "articoli": [
+                {
+                    "numero": "2",
+                    "titolo": "Articolo trappola",
+                    "corpo": "@Tranquillo corpo del testo malformattato"
+                }
+            ]
+        }
+    ]
+}
