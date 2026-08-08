@@ -1,0 +1,28 @@
+{
+    "titolo": "Titolo della Legge",
+    "nota": null,
+    "sezioni": [
+        {
+            "numero": "1",
+            "titolo": "Sezione 1 - Norme Generali",
+            "articoli": [
+                {
+                    "numero": "1",
+                    "titolo": "Ambito di applicazione",
+                    "corpo": "Il presente testo regola il funzionamento del sistema."
+                }
+            ]
+        },
+        {
+            "numero": "2",
+            "titolo": "Sezione 2 - Sanzioni",
+            "articoli": [
+                {
+                    "numero": "2",
+                    "titolo": "Violazioni",
+                    "corpo": "In caso di violazione si applica la sanzione prevista."
+                }
+            ]
+        }
+    ]
+}
