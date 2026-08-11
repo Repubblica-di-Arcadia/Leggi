@@ -1,10 +1,10 @@
 {
-    "titolo": "Titolo della Legge",
-    "nota": null,
+    "titolo": "Legge sui Sistemi",
+    "nota": "Prova di emendamento",
     "sezioni": [
         {
             "numero": "1",
-            "titolo": "Sezione 1 - Norme Generali",
+            "titolo": "SEZIONE 1 - NORME GENERALI",
             "articoli": [
                 {
                     "numero": "1",
@@ -15,12 +15,12 @@
         },
         {
             "numero": "2",
-            "titolo": "Sezione 2 - Sanzioni",
+            "titolo": "SEZIONE 2 - SANZIONI",
             "articoli": [
                 {
                     "numero": "2",
                     "titolo": "Violazioni",
-                    "corpo": "In caso di violazione si applica la sanzione prevista."
+                    "corpo": "In caso di violazione si applicano le sanzioni previste."
                 }
             ]
         }
