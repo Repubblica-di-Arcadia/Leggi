@@ -1,0 +1,69 @@
+{
+    "custom_id": "N1-2026",
+    "titolo": "Legge elettorale provvisoria",
+    "nota": null,
+    "sezioni": [
+        {
+            "numero": "1",
+            "titolo": "TITOLO I - DISPOSIZIONI GENERALI",
+            "articoli": [
+                {
+                    "numero": "1",
+                    "titolo": "Oggetto della legge",
+                    "corpo": "La presente legge disciplina le modalità di elezione del Presidente della Repubblica e dei Tribuni dell’Assemblea Popolare, nel numero complessivo di seggi previsto dalle vigenti norme costituzionali, nonché lo svolgimento delle relative elezioni suppletive."
+                },
+                {
+                    "numero": "2",
+                    "titolo": "Commissione Elettorale",
+                    "corpo": "1) Le procedure elettorali sono amministrate e vigilate dalla Commissione Elettorale.\n2) La Commissione è composta da due membri eletti dall'Assemblea Popolare a maggioranza semplice; essa sceglie autonomamente il suo Presidente tra i due membri eletti.\n3) Qualora la Commissione non raggiunga autonomamente un accordo sul membro nominato Presidente, sarà il Presidente dell’Assemblea Popolare a scegliere il Presidente della Commissione Elettorale.\n4) Le decisioni del Presidente della Commissione, in caso di disaccordo tra i due membri, prevalgono.\n5) La Commissione Elettorale rimane in carica fino all’insediamento della Commissione Elettorale eletta dalla nuova legislatura.\n6) La Commissione Elettorale deve essere tassativamente eletta all’inizio di ogni legislatura, entro e non oltre sette (7) giorni dall’elezione del Presidente dell’Assemblea Popolare."
+                },
+                {
+                    "numero": "3",
+                    "titolo": "Elettorato passivo e liste",
+                    "corpo": "I cittadini inseriti in liste elettorali, anche singolarmente composte, sono pienamente eleggibili come Tribuni, se non diversamente disposto dalla legge. La presentazione ufficiale delle liste deve avvenire tassativamente entro il giorno antecedente la data fissata per le elezioni, secondo le modalità indicate dalla Commissione Elettorale. Il medesimo procedimento si applica alla presentazione delle candidature per l’elezione del Presidente della Repubblica."
+                }
+            ]
+        },
+        {
+            "numero": "2",
+            "titolo": "TITOLO II - PROCEDURE ELETTORALI",
+            "articoli": [
+                {
+                    "numero": "4",
+                    "titolo": "Termini di convocazione, durata e metodo di voto",
+                    "corpo": "1) Prima di ogni consultazione, la Commissione Elettorale deve comunicare l’inizio delle procedure di voto tre giorni prima dello scadere del mandato dell’istituzione che va a rinnovo. Nel caso di cessazione o dimissioni anticipate, la comunicazione deve essere data d'urgenza entro ventiquattro ore.\n2) Ciascuna sessione elettorale ha una durata fissa di ventiquattro ore, salvo il comma 4.\n3) Il voto si esercita in forma anonima mediante la tecnologia del sondaggio a risposta singola, non cambiabile e non inoltrabile all’interno del Corpo Elettorale, appositamente predisposto e supervisionato dalla Commissione Elettorale. Per le elezioni suppletive dell’Assemblea Popolare si procede secondo la procedura abbreviata di cui all’articolo 7.\n4) In caso la Commissione Elettorale rilevi che, durante la sessione elettorale, tutti i cittadini abbiano correttamente espresso il proprio voto, la sessione elettorale può proclamarsi conclusa anticipatamente."
+                },
+                {
+                    "numero": "5",
+                    "titolo": "Ripartizione dei seggi",
+                    "corpo": "Per l'assegnazione dei seggi spettanti a ciascuna lista elettorale, si procede secondo i seguenti passaggi:\na) Calcolo del quoziente elettorale, inteso come il rapporto matematico fra il numero totale dei voti validi pervenuti e il numero dei seggi da ricoprire;\nb) Calcolo del rapporto fra il numero di voti ottenuti da ciascuna lista e il quoziente elettorale generale, determinando così il numero di seggi interi assegnati alla lista medesima;\nc) Qualora residuino seggi non assegnati per via del calcolo dei numeri interi, questi verranno distribuiti alle liste seguendo l'ordine dei più alti resti decimali avanzati dal calcolo di cui alla lettera b)."
+                },
+                {
+                    "numero": "6",
+                    "titolo": "Scorrimenti e validità della consultazione",
+                    "corpo": "1) Qualora una lista ottenga un numero di seggi superiore a quello dei suoi effettivi componenti, ha la facoltà di indicare, entro il limite perentorio di ventiquattro ore, ulteriori candidati fino alla totale copertura dei seggi da assegnare.\n2) In caso di parità di preferenze o di decimali tra liste diverse per l'attribuzione dell'ultimo seggio residuo, si procede al ballottaggio immediato o, in caso di ulteriore parità, si applica la decisione del Presidente della Commissione Elettorale. Nel caso in cui residuino seggi non coperti per mancanza di candidati, si applica la procedura semplificata di cui all’articolo 7.\n3) Qualora il quoziente elettorale risulti inferiore a uno (1), ovvero il totale dei voti validi pervenuti sia inferiore al numero complessivo dei seggi messi a bando, le elezioni sono dichiarate nulle e prive di effetti; le stesse dovranno essere tassativamente ripetute entro due giorni dal termine della sessione annullata.\n4) Una lista o un candidato possono essere esclusi di diritto dalle elezioni qualora intervenga una condanna penale o amministrativa per reati direttamente connessi alle consultazioni elettorali entro la fine delle procedure di voto."
+                },
+                {
+                    "numero": "7",
+                    "titolo": "Procedure suppletive",
+                    "corpo": "Per le elezioni suppletive dell’Assemblea Popolare, al fine di ricoprire i seggi di Tribuni dimissionari o per altri motivi decaduti, è disposta una procedura semplificata. Entro due giorni dalla formalizzazione della vacanza del seggio, la Commissione Elettorale comunica l’inizio delle procedure elettorali, ed entro il giorno successivo alla comunicazione i cittadini che intendono candidarsi dovranno comunicare la propria lista elettorale. Le successive procedure seguono i dettami degli artt. 4 e seguenti del presente testo."
+                },
+                {
+                    "numero": "8",
+                    "titolo": "Elezione automatica dei Tribuni",
+                    "corpo": "Per le elezioni suppletive, qualora i cittadini regolarmente candidati siano in numero pari o inferiore ai seggi vacanti, essi verranno dichiarati eletti automaticamente dalla Commissione Elettorale senza necessità di ricorrere alla votazione."
+                },
+                {
+                    "numero": "9",
+                    "titolo": "Elezione automatica del Presidente",
+                    "corpo": "Nelle consultazioni per l’elezione del Presidente della Repubblica, qualora si fosse candidato regolarmente un solo cittadino, quest’ultimo viene proclamato eletto automaticamente."
+                },
+                {
+                    "numero": "10",
+                    "titolo": "Ricorso dei candidati",
+                    "corpo": "Qualora un candidato ritenga che siano avvenute irregolarità durante la sessione elettorale e che queste non siano state correttamente rilevate e risolte dalla Commissione Elettorale, egli può fare ricorso alla Magistratura entro e non oltre il limite perentorio di quarantotto ore dalla proclamazione ufficiale dei risultati."
+                }
+            ]
+        }
+    ]
+}
