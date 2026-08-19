@@ -1,26 +1,78 @@
 {
-    "titolo": "Legge sui Sistemi",
-    "nota": "Prova di emendamento",
+    "custom_id": null,
+    "titolo": "Legge n. 2/2026 - Legge sulla Cittadinanza",
+    "nota": null,
     "sezioni": [
         {
             "numero": "1",
-            "titolo": "SEZIONE 1 - NORME GENERALI",
+            "titolo": "Sezione 1 - Disposizioni generali",
             "articoli": [
                 {
                     "numero": "1",
-                    "titolo": "Ambito di applicazione",
-                    "corpo": "Il presente testo regola il funzionamento del sistema."
+                    "titolo": "Oggetto della legge",
+                    "corpo": "La presente legge disciplina l'acquisizione della cittadinanza arcadiana, l'area di competenza dell'Ufficio Anagrafe e istituisce il registro dei cittadini."
+                },
+                {
+                    "numero": "2",
+                    "titolo": "Acquisizione della Cittadinanza",
+                    "corpo": "La cittadinanza arcadiana viene concessa, previa richiesta del candidato, su approvazione dell'Assemblea Popolare.\nParagrafi aggiunti dalla modifica legislativa dell'11 luglio 2026:\n1. La richiesta della cittadinanza va formulata al Ministro degli Interni o a chi ne fa le veci, attraverso una diretta, esplicita e consapevole domanda di acquisizione.\n2. La richiesta viene pertanto inoltrata al Presidente dell'Assemblea Popolare o a chi ne fa le veci, perché la domanda sia posta ai voti in virtù di questa legge."
+                },
+                {
+                    "numero": "3",
+                    "titolo": "Generalità",
+                    "corpo": "La cittadinanza è legata univocamente a un profilo Telegram. Chiunque faccia richiesta della cittadinanza deve fornire il nome e cognome con cui desidera identificarsi nei documenti ufficiali."
                 }
             ]
         },
         {
             "numero": "2",
-            "titolo": "SEZIONE 2 - SANZIONI",
+            "titolo": "Sezione 2 - Ufficio Anagrafe",
             "articoli": [
                 {
-                    "numero": "2",
-                    "titolo": "Violazioni",
-                    "corpo": "In caso di violazione si applicano le sanzioni previste."
+                    "numero": "4",
+                    "titolo": "Istituzione dell'Ufficio Anagrafe",
+                    "corpo": "Con il fine della trasparenza in merito alla cittadinanza, viene istituito l'Ufficio Anagrafe, di competenza del Ministero degli Interni. L'Ufficio Anagrafe ha il compito di gestire e mantenere aggiornato il registro dei cittadini."
+                },
+                {
+                    "numero": "5",
+                    "titolo": "Composizione dell'Ufficio Anagrafe",
+                    "corpo": "L'Ufficio Anagrafe è composto da impiegati, con contratto a tempo determinato o indeterminato, alle dipendenze del Ministro degli Interni."
+                },
+                {
+                    "numero": "6",
+                    "titolo": "Competenze del Ministero",
+                    "corpo": "Il Ministero gestisce i bandi, le modalità di assunzione, i licenziamenti, il regolamento interno e la disciplina dell'Ufficio Anagrafe. Le assunzioni possono avvenire mediante concorso pubblico o per chiamata diretta."
+                },
+                {
+                    "numero": "7",
+                    "titolo": "Garanzia del servizio pubblico",
+                    "corpo": "Al fine di garantire la continuità del servizio pubblico, l'operatività dell'Ufficio Anagrafe prosegue anche qualora la carica di Ministro degli Interni risultasse vacante."
+                }
+            ]
+        },
+        {
+            "numero": "3",
+            "titolo": "Sezione 3 - Registro dei cittadini",
+            "articoli": [
+                {
+                    "numero": "8",
+                    "titolo": "Definizione del registro dei cittadini",
+                    "corpo": "Il registro dei cittadini è un registro accessibile pubblicamente. L'Ufficio Anagrafe stabilisce il formato del registro e le sue modalità di accesso, tenendo conto dei principi di trasparenza e di facilità di lettura dei contenuti."
+                },
+                {
+                    "numero": "9",
+                    "titolo": "Trasparenza dei dati",
+                    "corpo": "L'Ufficio Anagrafe ha l'obbligo di inserire nel registro, per ciascun cittadino, i seguenti dati:\na) Username Telegram\nb) ID Telegram\nc) Nome\nd) Cognome"
+                },
+                {
+                    "numero": "10",
+                    "titolo": "Riconoscimento del cittadino",
+                    "corpo": "Nel caso di cambio delle proprie generalità o del proprio profilo Telegram, il cittadino è tenuto a comunicare tali cambiamenti all'Ufficio Anagrafe. Qualora i cambiamenti non venissero comunicati o l'Ufficio non riuscisse a riconoscere la nuova identità, i diritti di cittadinanza vengono dichiarati sospesi."
+                },
+                {
+                    "numero": "11",
+                    "titolo": "Diritto all'informazione",
+                    "corpo": "L'Ufficio Anagrafe non può negare a un cittadino arcadiano la consultazione del registro dei cittadini."
                 }
             ]
         }
