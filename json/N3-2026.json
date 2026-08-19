@@ -1,26 +1,84 @@
 {
-    "titolo": "Legge di prova",
+    "custom_id": null,
+    "titolo": "Legge n. 4/2026 - Legge sull'istituzione del Corpo di Vigilanza e Moderazione",
     "nota": null,
     "sezioni": [
         {
             "numero": "1",
-            "titolo": "Prova provosa",
+            "titolo": "Sezione 1 - Disposizioni generali",
             "articoli": [
                 {
                     "numero": "1",
-                    "titolo": "Importante articolo",
-                    "corpo": "Il corpo del testo non formattato"
+                    "titolo": "Oggetto della legge",
+                    "corpo": "La presente legge istituisce il Corpo di Vigilanza e Moderazione, quale organo di polizia e unica fonte dell'ordine della Repubblica di Arcadia, alle dipendenze del Ministero dell'Interno."
+                },
+                {
+                    "numero": "2",
+                    "titolo": "Funzioni e compiti del Corpo di Vigilanza",
+                    "corpo": "Il Corpo esercita le funzioni di vigilanza sul rispetto delle leggi e dei regolamenti della Repubblica, dell'esecuzione delle condanne e del mantenimento dell'ordine pubblico. Nello svolgimento delle proprie mansioni, il Corpo coopera con le altre istituzioni repubblicane e risponde tempestivamente alle segnalazioni degli utenti.\nComma 2. È dovere di tutti i cittadini, nonché di tutti i soggetti estranei che si trovino a frequentare i territori virtuali della comunità, collaborare attivamente con il Corpo e prestare assistenza ove espressamente richiesto dagli agenti nell'esercizio delle loro funzioni."
                 }
             ]
         },
         {
             "numero": "2",
-            "titolo": "Sezione errata di proposito",
+            "titolo": "Sezione 2 - Struttura e nomine",
             "articoli": [
                 {
-                    "numero": "2",
-                    "titolo": "Articolo trappola",
-                    "corpo": "@Tranquillo corpo del testo malformattato"
+                    "numero": "3",
+                    "titolo": "Struttura gerarchica del Corpo di Vigilanza",
+                    "corpo": "La struttura gerarchica del Corpo di Vigilanza si divide in:\n- Dirigente\n- Agenti"
+                },
+                {
+                    "numero": "4",
+                    "titolo": "Attribuzioni delle qualifiche gerarchiche",
+                    "corpo": "Il Dirigente coordina e sovrintende la disciplina dell'intero Corpo, riferisce le linee operative al Ministro dell'Interno. Gli agenti eseguono le direttive impartite dai superiori e operano direttamente sul territorio della Repubblica.\nComma 2. Il Dirigente risponde direttamente davanti al Ministro dell'Interno per gli atti, le condotte e l'operato dei propri subordinati, qualora si ravvisino gravi carenze nella direzione, nella vigilanza o nell'applicazione delle direttive impartite."
+                },
+                {
+                    "numero": "5",
+                    "titolo": "Nomina del Dirigente",
+                    "corpo": "Il Dirigente è nominato dal Presidente della Repubblica su proposta del Ministro dell'Interno e non può essere sollevato dalla carica se non per motivi penali, incompatibilità con altre cariche o per dimissioni volontarie."
+                },
+                {
+                    "numero": "6",
+                    "titolo": "Incompatibilità",
+                    "corpo": "L'ufficio del Dirigente è incompatibile con qualunque altra carica all'interno del Consiglio dei Ministri."
+                }
+            ]
+        },
+        {
+            "numero": "3",
+            "titolo": "Sezione 3 - Personale",
+            "articoli": [
+                {
+                    "numero": "7",
+                    "titolo": "Assunzione dei membri del Corpo di Vigilanza",
+                    "corpo": "Il Corpo di Vigilanza può assumere il proprio personale mediante bando pubblico, chiamata diretta o candidatura spontanea."
+                },
+                {
+                    "numero": "8",
+                    "titolo": "Regolamentazione dei bandi",
+                    "corpo": "Il Ministro dell'Interno, su esplicita richiesta del Dirigente, bandisce periodicamente un bando per l'assunzione di un determinato numero di agenti."
+                },
+                {
+                    "numero": "9",
+                    "titolo": "Modifiche al regolamento delle piazze",
+                    "corpo": "Il Corpo di Vigilanza può proporre modifiche al Regolamento interno delle piazze all'Assemblea Popolare."
+                }
+            ]
+        },
+        {
+            "numero": "4",
+            "titolo": "Sezione 4 - Disciplina e cessazione del servizio",
+            "articoli": [
+                {
+                    "numero": "10",
+                    "titolo": "Provvedimenti disciplinari",
+                    "corpo": "Il Dirigente, sentito il Ministro dell'Interno, può emanare sanzioni disciplinari nei confronti del personale del Corpo in caso di violazione dei doveri d'ufficio o della condotta.\nComma 2. Le sanzioni si distinguono in: ammonizione scritta, interdizione temporanea dal servizio e destituzione.\nComma 3. Qualora, a seguito di nuovi accertamenti o nuove prove emerse, qualsiasi sanzione emessa dal Dirigente dovesse risultare infondata, il Dirigente, d'ufficio o su volontà del poliziotto interessato, provvede tempestivamente nell'annullamento del provvedimento e nel reintegro del membro nel proprio grado e nelle proprie funzioni."
+                },
+                {
+                    "numero": "11",
+                    "titolo": "Cessazione del servizio e inattività",
+                    "corpo": "Tutti gli agenti possono rassegnare le proprie dimissioni dal Corpo in qualunque momento, presentandole al Dirigente, il quale lo comunica al Ministro dell'Interno.\nComma 2. Qualora un membro del Corpo di Vigilanza, senza giustificato motivo, risulti irreperibile o non svolga alcuna attività per un periodo superiore a giorni quattordici (14), il Dirigente ne dichiara la decadenza automatica per inattività.\nComma 3. La cessazione del servizio comporta l'immediata liberazione del posto e l'avvio delle procedure di assunzioni stabilite nell'articolo 7."
                 }
             ]
         }
