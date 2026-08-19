@@ -1,0 +1,126 @@
+{
+    "custom_id": null,
+    "titolo": "Testo unico sulle retribuzioni statali",
+    "nota": null,
+    "sezioni": [
+        {
+            "numero": "1",
+            "titolo": "TITOLO I - DISPOSIZIONI GENERALI",
+            "articoli": [
+                {
+                    "numero": "1",
+                    "titolo": "(Oggetto della legge)",
+                    "corpo": "La presente legge ha lo scopo di unificare le varie disposizioni in materia fiscale attualmente in vigore. Il titolo II di questa legge concerne le retribuzioni ai membri del governo, nonché i termini e le condizioni che essi devono rispettare affinché vengano compensati correttamente. Il titolo III concerne le retribuzioni di tutti gli altri dipendenti statali."
+                }
+            ]
+        },
+        {
+            "numero": "2",
+            "titolo": "TITOLO II –  OBBLIGHI E RETRIBUZIONI DEI MEMBRI DEL GOVERNO",
+            "articoli": [
+                {
+                    "numero": "2",
+                    "titolo": "(Impegni formali su richiesta dei Tribuni)",
+                    "corpo": "Quando un Tribuno lo richiede, il Governo è tenuto ad assumere impegni chiari e formali riguardo ai propri obiettivi, comprensivi di scadenze definite."
+                },
+                {
+                    "numero": "3",
+                    "titolo": "(Proroga delle scadenze)",
+                    "corpo": "Qualora il Governo si renda conto dell'impossibilità di completare un lavoro entro la scadenza stabilita, ha diritto di posticiparla per un massimo di due volte. Ogni ulteriore proroga oltre le due consentite comporta una decurtazione del 10% dello stipendio a carico dei Ministri responsabili"
+                },
+                {
+                    "numero": "4",
+                    "titolo": "(Violazione delle scadenze senza proroga formale)",
+                    "corpo": "1. Se una scadenza viene violata senza essere stata formalmente posticipata, ai Ministri responsabili viene decurtata una quota del 50% dello stipendio.\n2. Viene definito stipendio tutti i proventi derivanti dalle azioni svolte come funzionario pubblico.\n3. La Magistratura, accertata la violazione al comma 1 del presente articolo, procede all’applicazione della sanzione d’ufficio."
+                },
+                {
+                    "numero": "5",
+                    "titolo": "(Applicazione delle multe al Presidente della Repubblica)",
+                    "corpo": "Ogni sanzione prevista dalla presente legge si applica anche al Presidente della Repubblica. La percentuale è determinata a seconda del numero dei Ministri coinvolti. La sanzione cresce secondo la formula: numero di ministri coinvolti diviso numero di ministri totali, con il risultato convertito in percentuale. Questa percentuale viene applicata allo stipendio, come da art. 3, comma 2."
+                },
+                {
+                    "numero": "6",
+                    "titolo": "(Destinazione delle somme decurtate)",
+                    "corpo": "Le somme decurtate dagli stipendi vengono versati nel conto corrente dello Stato."
+                },
+                {
+                    "numero": "7",
+                    "titolo": "(Compenso orario per le call)",
+                    "corpo": "I Ministri sono retribuiti 25 ARC per ogni ora di call, comprese le frazioni d'ora."
+                },
+                {
+                    "numero": "8",
+                    "titolo": "(Compenso per punti di campagna elettorale)",
+                    "corpo": "I Ministri sono retribuiti 35 ARC per ciascun punto di campagna elettorale realizzato."
+                },
+                {
+                    "numero": "9",
+                    "titolo": "(Sanzione per punti di campagna elettorale non realizzati)",
+                    "corpo": "Per ogni punto di campagna elettorale non realizzato viene applicata una sanzione di 10 ARC ad ogni membro del Governo in carica."
+                },
+                {
+                    "numero": "10",
+                    "titolo": "(Calcolo dello stipendio totale ai fini delle multe)",
+                    "corpo": "I bonus previsti dagli articoli 7 e 8 rientrano nel calcolo dello stipendio ai fini del calcolo delle sanzioni di cui agli articoli 3, 4, 5 e 9."
+                },
+                {
+                    "numero": "11",
+                    "titolo": "(Tempestività nell'applicazione delle sanzioni)",
+                    "corpo": "Le sanzioni previste dalla presente legge sono applicate non appena l'azione che le determina è compiuta, con il totale calcolato al momento del fatto stesso."
+                }
+            ]
+        },
+        {
+            "numero": "3",
+            "titolo": "TITOLO III –  TARIFFARIO DEI DIPENDENTI STATALI",
+            "articoli": [
+                {
+                    "numero": "12",
+                    "titolo": "(Compenso per i Tribuni firmatari di una legge)",
+                    "corpo": "Un Tribuno riceverà 15 ARC per ogni Legge da egli proposta ed approvata dall’Assemblea. In caso di Legge scritta a più mani, il compenso del presente articolo verrà suddiviso in parti uguali a tutti gli autori della Legge. Per gli emendamenti, il compenso ammonta a 3 ARC."
+                },
+                {
+                    "numero": "13",
+                    "titolo": "(Retribuzione Commissari Elettorali)",
+                    "corpo": "I Commissari Elettorali riceveranno una retribuzione di 10 ARC per ogni elezione alla quale partecipano come componenti del comitato elettorale."
+                },
+                {
+                    "numero": "14",
+                    "titolo": "(Sanzioni Commissari Elettorali)",
+                    "corpo": "Un commissario elettorale che non adempie al proprio incarico riceverà una sanzione dai 20 ai 50 ARC a seconda del danno causato."
+                },
+                {
+                    "numero": "15",
+                    "titolo": "(Responsabilità ministeriale sul Corpo di Vigilanza)",
+                    "corpo": "È responsabilità del Ministero degli Interni tenere conto delle attività del Corpo di Vigilanza al fine di retribuire correttamente il loro operato."
+                },
+                {
+                    "numero": "16",
+                    "titolo": "(Retribuzione Corpo di Vigilanza)",
+                    "corpo": "Il Dirigente o un Agente del Corpo di Vigilanza riceve un compenso tra 1 ARC e 5 ARC per ogni giorno di attività comprovata, ovvero ogni giorno in cui esercita attivamente le proprie funzioni di polizia. È compito del Ministero assegnare un compenso proporzionato all’attività giornaliera."
+                },
+                {
+                    "numero": "17",
+                    "titolo": "(Frequenza delle retribuzioni)",
+                    "corpo": "Gli stipendi ai membri del Corpo di Vigilanza vengono emessi ogni 15 giorni, nei quali si somma i compensi giornalieri ottenuti in quel arco temporale."
+                },
+                {
+                    "numero": "18",
+                    "titolo": "(Retribuzione Magistrati)",
+                    "corpo": "Per ogni atto emesso dalla magistratura spetta un compenso di 15 ARC al Sommo Magistrato e 10 ARC per i Magistrati Ordinari."
+                }
+            ]
+        },
+        {
+            "numero": "4",
+            "titolo": "TITOLO IV –  DISPOSIZIONI TRANSITORIE",
+            "articoli": [
+                {
+                    "numero": "19",
+                    "titolo": "(Abrogazione di testi precedenti)",
+                    "corpo": "All’approvazione della presente legge verranno abrogati i seguenti testi:\n1. Legge ordinaria n. 5 del 2026\n2. Decreto ministeriale n.2 del 2026"
+                }
+            ]
+        }
+    ]
+}
