@@ -1,0 +1,55 @@
+{
+    "custom_id": null,
+    "titolo": "Legge n. 3/2026 - Statuto della Repubblica",
+    "nota": null,
+    "sezioni": [
+        {
+            "numero": "1",
+            "titolo": "Sezione 1 - Disposizioni generali",
+            "articoli": [
+                {
+                    "numero": "1",
+                    "titolo": "Denominazione e finalità del gruppo",
+                    "corpo": "1. Il presente gruppo è denominato \"Repubblica di Arcadia\" ed è creato su Telegram con lo scopo di fornire un ambiente virtuale di discussione, condivisione e interazione tra i membri.\n2. Le finalità principali del gruppo sono la promozione e lo sviluppo della comunità leonense, la crescita del progetto micronazionale e l'interazione proficua fra utenti.\n3. Il suddetto statuto regola la convivenza dei vari utenti all'interno del gruppo. In particolare, esso è complementare alla ben più importante Costituzione, documento fondativo della micronazione."
+                },
+                {
+                    "numero": "2",
+                    "titolo": "Membri del gruppo",
+                    "corpo": "1. Possono essere membri del gruppo tutte le persone interessate alle tematiche trattate e che accettano di conformarsi al presente statuto.\n2. La moderazione si riserva il diritto di rimuovere membri che violino le norme di comportamento."
+                },
+                {
+                    "numero": "3",
+                    "titolo": "Norme di comportamento",
+                    "corpo": "1. I membri sono tenuti a mantenere un comportamento rispettoso nei confronti degli altri membri, ovvero di non arrecare offesa verbale, calunnia, minaccia o incitamento all'odio.\n2. Non è permesso arrecare danno all'atmosfera collaborativa del gruppo.\n3. I membri sono tenuti a segnalare eventuali violazioni alla moderazione."
+                }
+            ]
+        },
+        {
+            "numero": "2",
+            "titolo": "Sezione 2 - Mercato interno",
+            "articoli": [
+                {
+                    "numero": "4",
+                    "titolo": "Mercato interno",
+                    "corpo": "1. In conformità con la Costituzione e le leggi arcadiane, qualsiasi utente è libero di richiedere, usufruire e offrire dei beni o servizi specifici all'interno del gruppo.\n2. La valuta ufficiale del mercato interno è l'ARC, erogata e gestita presso la banca di Arcadia. Il suo utilizzo avviene tramite i canali ufficiali della banca (@SBARC_bot).\n3. In caso di servizi a pagamento, Arcadia si riserva il diritto, dopo attenta valutazione, di trattenere una commissione sugli eventuali guadagni.\n4. Servizi illegali o dubbiamente etici verranno rimossi all'istante."
+                }
+            ]
+        },
+        {
+            "numero": "3",
+            "titolo": "Sezione 3 - Disposizioni finali",
+            "articoli": [
+                {
+                    "numero": "5",
+                    "titolo": "Variazioni e aggiornamenti dello Statuto",
+                    "corpo": "1. Qualsiasi variazione o aggiornamento dello statuto sarà proponibile dagli utenti e sarà sottoposto al voto dell'Assemblea Popolare.\n2. Le modifiche allo statuto saranno adottate con la maggioranza dei voti favorevoli."
+                },
+                {
+                    "numero": "6",
+                    "titolo": "Scioglimento del gruppo",
+                    "corpo": "1. In caso di decisione di scioglimento del gruppo, in accordo con la Costituzione, gli amministratori dovranno informare preventivamente i membri e procedere alle operazioni necessarie per la chiusura del gruppo.\n2. In caso di scioglimento, eventuali risorse o contenuti di proprietà del gruppo saranno gestiti conformemente alle decisioni prese dagli amministratori."
+                }
+            ]
+        }
+    ]
+}
