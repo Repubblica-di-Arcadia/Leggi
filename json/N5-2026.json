@@ -1,0 +1,81 @@
+{
+    "custom_id": null,
+    "titolo": "Legge n. 5/2026 - Legge sulla responsabilità del Governo",
+    "nota": null,
+    "sezioni": [
+        {
+            "numero": "1",
+            "titolo": "Sezione 1 - Obblighi e impegni del Governo",
+            "articoli": [
+                {
+                    "numero": "1",
+                    "titolo": "Impegni formali su richiesta dei Tribuni",
+                    "corpo": "Quando un Tribuno lo richiede, il Governo è tenuto ad assumere impegni chiari e formali riguardo ai propri obiettivi, comprensivi di scadenze definite."
+                },
+                {
+                    "numero": "2",
+                    "titolo": "Proroga delle scadenze",
+                    "corpo": "Qualora il Governo si renda conto dell'impossibilità di completare un lavoro entro la scadenza stabilita, ha diritto di posticiparla per un massimo di due volte. Ogni ulteriore proroga oltre le due consentite comporta una decurtazione del 10% dello stipendio a carico dei Ministri responsabili."
+                }
+            ]
+        },
+        {
+            "numero": "2",
+            "titolo": "Sezione 2 - Sanzioni per violazione delle scadenze",
+            "articoli": [
+                {
+                    "numero": "3",
+                    "titolo": "Violazione delle scadenze senza proroga formale",
+                    "corpo": "1. Se una scadenza viene violata senza essere stata formalmente posticipata, ai Ministri responsabili viene decurtata una quota del 50% dello stipendio.\n2. Viene definito stipendio tutti i proventi derivanti dalle azioni svolte come funzionario pubblico.\n3. La Magistratura, accertata la violazione al comma 1 del presente articolo, procede all'applicazione della sanzione d'ufficio."
+                },
+                {
+                    "numero": "4",
+                    "titolo": "Applicazione delle multe al Presidente della Repubblica",
+                    "corpo": "Ogni sanzione prevista dalla presente legge si applica anche al Presidente della Repubblica. La percentuale è determinata a seconda del numero dei Ministri coinvolti. La sanzione cresce secondo la formula: numero di ministri coinvolti diviso numero di ministri totali, con il risultato convertito in percentuale. Questa percentuale viene applicata allo stipendio, come da art. 3, comma 2."
+                },
+                {
+                    "numero": "5",
+                    "titolo": "Destinazione delle somme decurtate",
+                    "corpo": "Le somme decurtate dagli stipendi vengono versati nel conto corrente dello Stato."
+                }
+            ]
+        },
+        {
+            "numero": "3",
+            "titolo": "Sezione 3 - Retribuzioni",
+            "articoli": [
+                {
+                    "numero": "6",
+                    "titolo": "Compenso orario per le call",
+                    "corpo": "I Ministri sono retribuiti 15 ARC per ogni ora di call, comprese le frazioni d'ora."
+                },
+                {
+                    "numero": "7",
+                    "titolo": "Compenso per punti di campagna elettorale",
+                    "corpo": "I Ministri sono retribuiti 30 ARC per ciascun punto di campagna elettorale realizzato."
+                },
+                {
+                    "numero": "8",
+                    "titolo": "Sanzione per punti di campagna elettorale non realizzati",
+                    "corpo": "Per ogni punto di campagna elettorale non realizzato viene applicata una sanzione di 10 ARC ad ogni membro del Governo in carica."
+                },
+                {
+                    "numero": "9",
+                    "titolo": "Calcolo dello stipendio totale ai fini delle multe",
+                    "corpo": "I bonus previsti dagli articoli 6 e 7 rientrano nel calcolo dello stipendio ai fini del calcolo delle sanzioni di cui agli articoli 2, 3, 4 e 8."
+                }
+            ]
+        },
+        {
+            "numero": "4",
+            "titolo": "Sezione 4 - Disposizioni finali",
+            "articoli": [
+                {
+                    "numero": "10",
+                    "titolo": "Tempestività nell'applicazione delle sanzioni",
+                    "corpo": "Le sanzioni previste dalla presente legge sono applicate non appena l'azione che le determina è compiuta, con il totale calcolato al momento del fatto stesso."
+                }
+            ]
+        }
+    ]
+}
