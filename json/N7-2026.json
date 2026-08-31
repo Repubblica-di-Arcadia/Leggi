@@ -1,7 +1,7 @@
 {
     "custom_id": null,
     "titolo": "Legge sulla tassazione dei conti fermi",
-    "nota": null,
+    "nota": "Ridefinita più chiaramente la tassa all'articolo 4. Articolo 3 abrogato poiché non necessario. Data discrezionalità alla banca per decidere l'aliquota della tassa sentito il governo",
     "sezioni": [
         {
             "numero": "1",
@@ -10,17 +10,17 @@
                 {
                     "numero": "1",
                     "titolo": "Conto fermo",
-                    "corpo": "Un conto della Banca di Arcadia si dice fermo in una certa unità di tempo se non avvengono in esso né entrate né uscite."
+                    "corpo": "Un conto nel Sistema Bancario si dice fermo in una certa unità di tempo se non avvengono in esso né entrate né uscite."
                 },
                 {
                     "numero": "2",
                     "titolo": "Osservazione di un conto",
-                    "corpo": "L'osservazione di un conto è il processo periodico di controllo dei suoi movimenti in una determinata finestra temporale."
+                    "corpo": "L'osservazione di un conto è il processo periodico di controllo dei suoi movimenti in una determinata finestra temporale. La Banca Centrale ha la possibilità di fare osservazioni e raccogliere dati al fine della presente legge"
                 },
                 {
                     "numero": "3",
                     "titolo": "Calendarizzazione delle osservazioni",
-                    "corpo": "Ciascuna osservazione viene eseguita a distanza di 14 giorni dalla precedente, e ha come finestra temporale quel numero di giorni.\nPer tutti i conti aperti prima dell'approvazione di questa legge, la finestra temporale della prima osservazione comincia il primo sabato dopo tale giorno.\nPer i conti aperti a seguire, la prima osservazione inizia il giorno di apertura del conto."
+                    "corpo": "Abrogato"
                 }
             ]
         },
@@ -31,17 +31,17 @@
                 {
                     "numero": "4",
                     "titolo": "Tassa di giacenza",
-                    "corpo": "Eseguita un'osservazione su un conto secondo i termini stabiliti nella sezione 1, a tale conto va imposta la tassa di giancenza.\nLa tassa è la differenza tra il saldo all'inizio della finestra temporale di osservazione, moltiplicato per un'aliquota, e l'uscita complessiva in tale finestra.\nSe l'uscita supera il saldo iniziale moltiplicato tale aliquota, la tassa è nulla per tale osservazione."
+                    "corpo": "Eseguita un'osservazione su un conto secondo i termini stabiliti nella sezione 1, a tale conto va imposta la tassa di giacenza.\nLa tassa è una quota percentuale fissa che viene sottratta a cadenza mensile da ogni conto bancario. Ad ogni utente del Sistema Bancario vengono dedotte le uscite totali mensili dall'importo dovuto, fino anche all'azzeramento dello stesso. Nel caso che le uscite mensili superino l'importo dovuto, l'utente sarà esonerato dal pagamento della tassa."
                 },
                 {
                     "numero": "5",
                     "titolo": "Aliquota per la tassa di giacenza",
-                    "corpo": "L'aliquota in riferimento all'articolo 4 è fissata per tutti i conti a 5% (un ventesimo)."
+                    "corpo": "L'aliquota in riferimento all'articolo 4 è fissata dalla Banca Centrale sentiti gli enti a cui provvede il servizio del Sistema Bancario. Qualora delle altre micronazioni o comunque altre realtà extraterritoriali vogliano sottrarsi dal pagamento dell'imposta, sono tenute ad accordarsi di conseguenza con la Banca Centrale."
                 },
                 {
                     "numero": "6",
                     "titolo": "Destinazione del valore tassato",
-                    "corpo": "La quantità tassata secondo i termini di questa sessione viene raccolta dal Governo di Arcadia attraverso un prelievo diretto."
+                    "corpo": "La quantità tassata secondo i termini di questa sessione viene raccolta dal Governo di Arcadia attraverso un prelievo diretto, salvo eccezioni di cui all'articolo 5"
                 }
             ]
         }
